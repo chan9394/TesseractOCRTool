@@ -1,0 +1,2 @@
+# TesseractOCRTool
+利用开源图片文字识别类Tesseract识别标准身份证信息
